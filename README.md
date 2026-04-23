@@ -140,8 +140,3 @@ Server will start at: `http://localhost:3000`
 - Data is stored **in-memory** and will reset every time the server restarts.
 - All responses follow the format: `{ "success": true/false, "data": ... }`.
 
----
-
-## Author
-
-**zuna107**
