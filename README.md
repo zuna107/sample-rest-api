@@ -132,11 +132,3 @@ Server will start at: `http://localhost:3000`
   "data": { "id": 4, "name": "Monitor", "price": 2800000, "stock": 12 }
 }
 ```
-
----
-
-## Notes
-
-- Data is stored **in-memory** and will reset every time the server restarts.
-- All responses follow the format: `{ "success": true/false, "data": ... }`.
-
